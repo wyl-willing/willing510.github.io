@@ -26,9 +26,9 @@ I am a postgraduate student at Central South University. Please refer to [my hom
 
 ⚡ My research interests include:
 
-    - Knowledge discovery and reasoning in LLM; 
+Knowledge discovery and reasoning in LLM; 
     
-    - Controlled text generation；
+Controlled text generation；
 
 📫 Contact:
 
